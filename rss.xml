@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[technobudo]]></title>
-        <description><![CDATA[technobudo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Flow science and optimal human performance]]></title>
+        <description><![CDATA[Flow science and optimal human performance]]></description>
+        <link>https://thegrid.ai/technobudo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 01:14:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 12 Aug 2016 01:29:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/technobudo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Technobudo is an educational umbrella production company that runs programs and artistic installations about human optimal flow, optimal performance and sustainable minimalism.</p>]]></description>
-            <link>undefinedtechnobudo-is-an-educational-umbrella-production-company-tha/index.html</link>
+            <link>https://thegrid.ai/technobudo/technobudo-is-an-educational-umbrella-production-company-tha/index.html</link>
             <guid isPermaLink="false">b8f24a5d-a7be-4d9f-b065-06fc695bce3a</guid>
-            <pubDate>Fri, 12 Aug 2016 01:14:06 GMT</pubDate>
+            <pubDate>Fri, 12 Aug 2016 01:29:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
